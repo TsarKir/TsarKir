@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img height="500" width="500" src="https://cdnb.artstation.com/p/assets/images/images/030/196/617/original/pixel-jeff-other-world-2.gif"  />
+</div>
 
-<!--
-**TsarKir/TsarKir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, my name is Kirill! 👋
 
-Here are some ideas to get you started:
+My first degree is in medicine (medical oncology), but my passion for programming led me to transition into backend development. Currently, I am honing my skills as a student at School 21. <br>
+I am actively developing as a Golang programmer, and in the future, I aim to pursue a PhD in the field of computer science.<br>
+In love with programming, science, chess and bjj:) <br>
+This is my Github with some educational and freelance repositories.
+<br>
+  <h3 align="left">🛠 Stack:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,git,postgresql,golang,bash" />
+  </a>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Codewars](https://github.r2v.ch/codewars?user=KirillSergeevich&stroke=blue)
+
+
