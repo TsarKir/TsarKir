@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width="500" src="https://cdnb.artstation.com/p/assets/images/images/030/196/617/original/pixel-jeff-other-world-2.gif"  />
+  <img height="400" width="400" src="https://cdnb.artstation.com/p/assets/images/images/030/196/617/original/pixel-jeff-other-world-2.gif"  />
 </div>
 
 ## Hi there, my name is Kirill! 👋
