@@ -11,7 +11,7 @@ This is my Github with some educational and freelance repositories.
 <br>
   <h3 align="left">🛠 Stack:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,git,postgresql,golang,bash" />
+    <img src="https://skillicons.dev/icons?i=golang,python,c,cpp,git,postgresql,bash" />
   </a>
 <br>
 <br>
